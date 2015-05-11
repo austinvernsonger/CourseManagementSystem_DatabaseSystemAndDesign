@@ -1,0 +1,9 @@
+Password        studentID
+pw_9966111      9966111
+pw_9966222      9966222
+pw_9966333      9966333
+
+
+
+To Run this Application
+first run this application on server(selected servlets will be deployed to srever), the run the ServerConsole as JavaApplication 
